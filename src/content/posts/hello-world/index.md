@@ -13,4 +13,4 @@ lang: ''
 
 Hello, and welcome. This is the first entry in this digital space.
 
-In Japanese, "Komorebi" describes the way sunlight filters through the leaves of trees. To me, this blog is exactly that "a place where the light of my interests filters through the noise of everyday life.
+In Japanese, "Komorebi" describes the way sunlight filters through the leaves of trees. To me, this blog is exactly that "a place where the light of my interests filters through the noise of everyday life".
