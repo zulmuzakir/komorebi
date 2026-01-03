@@ -1,0 +1,7 @@
+{
+	"name": "komorebi",
+	"compatibility_date": "2026-01-03", // Update to the day you deploy
+	"assets": {
+		"directory": "./dist"
+	}
+}
