@@ -6,7 +6,7 @@ image: './cover.webp'
 tags: ["Personal"]
 category: 'Personal'
 draft: false
-lang: ''
+lang: 'en'
 ---
 
 > Cover image source: [Source](www.pixiv.net/en/artworks/75993030)
