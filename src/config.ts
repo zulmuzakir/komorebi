@@ -62,17 +62,17 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com/zul26fikar",
+			url: "https://twitter.com/zulmuzakir",
 		},
 		{
 			name: "Instagram",
 			icon: "fa6-brands:instagram",
-			url: "https://instagram.com/zulfikarmuzakir",
+			url: "https://instagram.com/zulmuzakir",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/zulfikarmuzakir/komorebi",
+			url: "https://github.com/zulmuzakir",
 		},
 	],
 };
