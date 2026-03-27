@@ -1,11 +1,11 @@
 ---
 title: First Light - Hello World
-published: 2026-01-03
+published: 2026-03-28
 description: 'Welcoming you to my digital forest.'
 image: './cover.webp'
 tags: ["Personal"]
 category: 'Personal'
-draft: true
+draft: false
 lang: 'en'
 ---
 
