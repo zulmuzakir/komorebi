@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	sidebar: {
-		enable: false, // Display the profile, categories, and tags on the left side
+		enable: true, // Display the profile, categories, and tags on the left side
 	},
 	toc: {
 		enable: true, // Display the table of contents on the right side of the post
