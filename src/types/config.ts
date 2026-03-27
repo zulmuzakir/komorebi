@@ -30,6 +30,9 @@ export type SiteConfig = {
 			url?: string;
 		};
 	};
+	sidebar: {
+		enable: boolean;
+	};
 	toc: {
 		enable: boolean;
 		depth: 1 | 2 | 3;
